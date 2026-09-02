@@ -1,6 +1,7 @@
+---
 layout: post
-
 title: "My First Scientific Blog Post"
+---
 
 Welcome to my academic webpage.
 
